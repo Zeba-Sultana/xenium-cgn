@@ -169,6 +169,7 @@ obs/
 *.tiff
 *.tif
 *.h5ad
+*.rds
 *.png
 elastix/
 *.pdf
