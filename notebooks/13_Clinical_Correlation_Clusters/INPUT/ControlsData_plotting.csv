@@ -1,0 +1,7 @@
+biopsy_nr,age,sex,serum_creatinine_mg_dl,eGFR_ml_min,disease
+X1,54,female,0.57,106,Liposarcoma retroperitoneal
+X2,71,female,0.93,61,Liposarcoma retroperitoneal
+X9,71,female,0.93,61,Liposarcoma retroperitoneal
+X10,61,female,0.72,90,Transitional cell carcinoma
+X41,57,male,1.07,91,clear cell renal cell carcinoma
+X57,78,male,1.2,63,Transitional cell carcinoma
